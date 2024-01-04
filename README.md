@@ -8,7 +8,7 @@ About Me ✨
 ----------------------------------------------------------------------------
 * 👩‍💻Data Engineering student at University of Technology Malaysia (UTM)
 * 🌱 I’m currently learning Github, C++,video editing and more
-* 👨‍💻 All of my projects are available at https://github.com/TehRuQian#hi-my-name-is-teh-ru-qian
+* 👨‍💻 All of my projects are available at [MyProject](https://github.com/TehRuQian/SECPH-Year1-Sem1)
 * ✉️  You can contact me at [tehruqian@graduate.utm.my](mailto:tehruqian@graduate.utm.my)
 
 ### Skills
