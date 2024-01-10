@@ -10,7 +10,7 @@ About Me ✨
 * 🌱 I’m currently learning Github, C++,video editing and more
 * 👨‍💻 All of my projects are available at [MyProject](https://github.com/TehRuQian/SECPH-Year1-Sem1)
 * ✉️  You can contact me at [tehruqian@graduate.utm.my](mailto:tehruqian@graduate.utm.my)
-* [https://tehruqian.github.io/](https://tehruqian.github.io/)
+* You can also see my project through this [website](https://tehruqian.github.io/)
 
 ### Skills
 
